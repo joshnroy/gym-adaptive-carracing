@@ -1,1 +1,1 @@
-# gym-cartpole-visual
+# gym-adaptive-carracing
